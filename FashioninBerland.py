@@ -1,6 +1,6 @@
 '''
 language: Python3
-
+Source: Codeforces
 Problem: According to rules of the Berland fashion, a jacket should be fastened by all the buttons except only one, 
 but not necessarily it should be the last one. Also if the jacket has only one button, it should be fastened, 
 so the jacket will not swinging open.
